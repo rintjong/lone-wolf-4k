@@ -1,0 +1,274 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "FACEBOOK",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "931570598059510_931571468059423x",
+      "main_ads_intertitial":"931570598059510_931571778059392x",
+      "main_ads_rewards":"null",
+      "main_ads_natives":"931570598059510_931572408059329x",
+      "backup_ads_banner":"1dd402f4a834d4a5",
+      "backup_ads_intertitial":"691fa219df2eec0b",
+      "backup_ads_rewards":"962296d2c09e2896",
+      "backup_ads_natives":"ba01727da59a55a3",
+      "open_ads_admob":"null",
+      "open_ads_alien":"null",
+      "open_ads_max":"null",
+      "interval_intertitial": 7,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+   
+    }
+  ],
+   "More": [
+		{
+			"id": 1,
+			"title": "Cool Aesthetic Wallpaper",
+			"image": "https://play-lh.googleusercontent.com/0vy-dKP22kEam_9yOnAWpCiDqHug5PhNx5A6y04muBlw0Svy6OuHZTq1XDho8S1rtqTd=w240-h480-rw",
+			"link": "https://play.google.com/store/apps/details?id=com.rintjong.wallpaperaesthetic"
+		},
+		{
+			"id": 2,
+			"title": "Super HD 4K Wallpapers",
+			"image": "https://play-lh.googleusercontent.com/-dVTrS8scTittKLTqffmgQ65t2y4EP-lMRdcYEc2XlG_upCuNunFt6SCacfQz1c0tA=w240-h480-rw",
+			"link": "https://play.google.com/store/apps/details?id=com.rintjong.hdwallpaper4k"
+		},
+		{
+			"id": 3,
+			"title": "Sakura Dreams Anime Wallpaper",
+			"image": "https://play-lh.googleusercontent.com/W87QPqBURJQgR7fpzZJZJCsMntXQJqfqMDPCUr44BPELexCB3XoFh3LeAAE8miy3Dg=w240-h480-rw",
+			"link": "https://play.google.com/store/apps/details?id=com.sakura_anime.wallpaper"
+		},
+	       {
+			"id": 4,
+			"title": "US Navy Elite Wallpaper",
+			"image": "https://play-lh.googleusercontent.com/7THc2UBA13B-NMpiS06uTNbWAoSvdLyMVnrJiwPGGYIwDYSKOwhPESlv1pKJXIXNNA=w240-h480-rw",
+			"link": "https://play.google.com/store/apps/details?id=com.rintjong.usnavyseal"
+		}
+	],
+
+  "Categories": [
+  
+    {
+      "id": 1,
+      "name_category": "wolf_wallpaper_4k",
+      "image": "https://i.pinimg.com/736x/02/08/5f/02085fba2d7f1ff65d2e35604bb00b1f.jpg"
+
+    }
+  ],
+
+    "Data":
+  [
+    {
+        "id": "1",
+        "name_category": "wolf_wallpaper_4k",
+        "title": "wolf wallpaper 4k",
+        "image": "https://i.pinimg.com/736x/02/08/5f/02085fba2d7f1ff65d2e35604bb00b1f.jpg",
+		"lock":false
+    },
+    {
+        "id": "2",
+        "name_category": "wolf_wallpaper_4k",
+        "title": "wolf wallpaper 4k",
+        "image": "https://i.pinimg.com/736x/6e/1e/5b/6e1e5bfc1138d725e3b04515d0ca4cb6.jpg",
+		"lock":false
+    },
+    {
+        "id": "3",
+        "name_category": "wolf_wallpaper_4k",
+        "title": "wolf wallpaper 4k",
+        "image": "https://i.pinimg.com/736x/da/7a/95/da7a95df129ae3891cf58f6875fd429f.jpg",
+		"lock":false
+    },
+    {
+        "id": "4",
+        "name_category": "wolf_wallpaper_4k",
+        "title": "wolf wallpaper 4k",
+        "image": "https://i.pinimg.com/736x/8c/a6/b5/8ca6b50251ebcea8af00fa875beaf819.jpg",
+		"lock":false
+    },
+    {
+        "id": "5",
+        "name_category": "wolf_wallpaper_4k",
+        "title": "wolf wallpaper 4k",
+        "image": "https://i.pinimg.com/736x/2e/0f/ac/2e0facade9d83372b7b441ded4ba7f8d.jpg",
+		"lock":false
+    },
+    {
+        "id": "6",
+        "name_category": "wolf_wallpaper_4k",
+        "title": "wolf wallpaper 4k",
+        "image": "https://i.pinimg.com/736x/b6/72/d3/b672d3ad2dbf4420fa7c988642306c4c.jpg",
+		"lock":false
+    },
+    {
+        "id": "7",
+        "name_category": "wolf_wallpaper_4k",
+        "title": "wolf wallpaper 4k",
+        "image": "https://i.pinimg.com/736x/07/56/64/075664de599c2b42c030fab5da2ccb55.jpg",
+		"lock":false
+    },
+    {
+        "id": "8",
+        "name_category": "wolf_wallpaper_4k",
+        "title": "wolf wallpaper 4k",
+        "image": "https://i.pinimg.com/736x/0d/60/2c/0d602c5e48ee0351514b5e775fb4b127.jpg",
+		"lock":false
+    },
+    {
+        "id": "9",
+        "name_category": "wolf_wallpaper_4k",
+        "title": "wolf wallpaper 4k",
+        "image": "https://i.pinimg.com/736x/41/c8/0d/41c80d3e26e036ab3d11cf204704657d.jpg",
+		"lock":false
+    },
+  
+    {
+        "id": "10",
+        "name_category": "wolf_wallpaper_4k",
+        "title": "wolf wallpaper 4k",
+        "image": "https://i.pinimg.com/736x/18/52/f7/1852f7c0e8c9229d10531af83d009d51.jpg",
+		"lock":false
+    },
+ 
+    {
+        "id": "11",
+        "name_category": "wolf_wallpaper_4k",
+        "title": "wolf wallpaper 4k",
+        "image": "https://i.pinimg.com/736x/3f/8b/f0/3f8bf0f62930d0d515a8c301bdff7c5f.jpg",
+		"lock":false
+    },
+    {
+        "id": "12",
+        "name_category": "wolf_wallpaper_4k",
+        "title": "wolf wallpaper 4k",
+        "image": "https://i.pinimg.com/736x/98/16/57/9816574cd39260366c22b67cce7dd301.jpg",
+		"lock":false
+    },
+
+    {
+        "id": "13",
+        "name_category": "wolf_wallpaper_4k",
+        "title": "wolf wallpaper 4k",
+        "image": "https://i.pinimg.com/736x/c4/77/12/c47712760abfbef584b22fa63fffea57.jpg",
+		"lock":false
+    },
+ 
+ 
+    {
+        "id": "14",
+        "name_category": "wolf_wallpaper_4k",
+        "title": "wolf wallpaper 4k",
+        "image": "https://i.pinimg.com/736x/16/96/9d/16969de9085f04d5ef7c907becfb7a7c.jpg",
+		"lock":false
+    },
+ 
+    {
+        "id": "15",
+        "name_category": "wolf_wallpaper_4k",
+        "title": "wolf wallpaper 4k",
+        "image": "https://i.pinimg.com/736x/c9/ff/49/c9ff49468481e1b8a1a58e4f98fa3961--tattoo-wolf-wolf-illustration.jpg",
+		"lock":false
+    },
+
+    {
+        "id": "16",
+        "name_category": "wolf_wallpaper_4k",
+        "title": "wolf wallpaper 4k",
+        "image": "https://i.pinimg.com/736x/82/6f/99/826f99d3b15e43ebc0f88f9d161d375a.jpg",
+		"lock":false
+    },
+    {
+        "id": "17",
+        "name_category": "wolf_wallpaper_4k",
+        "title": "wolf wallpaper 4k",
+        "image": "https://i.pinimg.com/736x/a7/ec/8d/a7ec8d79ca99239f3ec316c81eb5ecb0.jpg",
+		"lock":false
+    },
+
+    {
+        "id": "18",
+        "name_category": "wolf_wallpaper_4k",
+        "title": "wolf wallpaper 4k",
+        "image": "https://i.pinimg.com/736x/c9/59/02/c9590286d580de871ee0ecac5e463da3.jpg",
+		"lock":false
+    },
+    {
+        "id": "19",
+        "name_category": "wolf_wallpaper_4k",
+        "title": "wolf wallpaper 4k",
+        "image": "https://i.pinimg.com/736x/2e/08/a4/2e08a47e8d398d54f40c87980ac2cd2e.jpg",
+		"lock":false
+    },
+ 
+    {
+        "id": "20",
+        "name_category": "wolf_wallpaper_4k",
+        "title": "wolf wallpaper 4k",
+        "image": "https://i.pinimg.com/736x/e1/1d/69/e11d696979221d6a944927bf91f195d3.jpg",
+		"lock":false
+    },
+ 
+    {
+        "id": "21",
+        "name_category": "wolf_wallpaper_4k",
+        "title": "wolf wallpaper 4k",
+        "image": "https://i.pinimg.com/736x/c1/da/a3/c1daa35fda31bda40d12c44ad56e6fea.jpg",
+		"lock":false
+    },
+
+    {
+        "id": "22",
+        "name_category": "wolf_wallpaper_4k",
+        "title": "wolf wallpaper 4k",
+        "image": "https://i.pinimg.com/736x/3d/11/dc/3d11dc2b93a7658ce431cc7eda9898f7.jpg",
+		"lock":false
+    },
+ 
+    {
+        "id": "23",
+        "name_category": "wolf_wallpaper_4k",
+        "title": "wolf wallpaper 4k",
+        "image": "https://i.pinimg.com/736x/73/86/e0/7386e0da961e52fb527801529bd62d05.jpg",
+		"lock":false
+    },
+
+    {
+        "id": "24",
+        "name_category": "wolf_wallpaper_4k",
+        "title": "wolf wallpaper 4k",
+        "image": "https://i.pinimg.com/736x/c5/07/16/c50716ec6a5babbb31614a30f12d3255.jpg",
+		"lock":false
+    },
+
+    {
+        "id": "25",
+        "name_category": "wolf_wallpaper_4k",
+        "title": "wolf wallpaper 4k",
+        "image": "https://i.pinimg.com/736x/a1/7d/d6/a17dd6b66cdf9a466060875238f6f5f6.jpg",
+		"lock":false
+    },
+    {
+        "id": "26",
+        "name_category": "wolf_wallpaper_4k",
+        "title": "wolf wallpaper 4k",
+        "image": "https://i.pinimg.com/736x/48/ab/18/48ab18f34b1ea1c173cf268f003e684d.jpg",
+		"lock":false
+    },
+
+    {
+        "id": "27",
+        "name_category": "wolf_wallpaper_4k",
+        "title": "wolf wallpaper 4k",
+        "image": "https://i.pinimg.com/736x/f5/7e/6e/f57e6e04f311c3b1dfe36a4820fa33d6.jpg",
+		"lock":false
+    }
+]
+}
